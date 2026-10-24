@@ -1,0 +1,38 @@
+{
+  "training_seed": 42,
+  "test_seed": 2026,
+  "train_samples": 360,
+  "test_samples": 120,
+  "unknown_test_samples": 30,
+  "test_accuracy": 1.0,
+  "unknown_reject_rate": 1.0,
+  "confusion_columns": [
+    "RED",
+    "BLUE",
+    "YELLOW",
+    "CHECK"
+  ],
+  "confusion_matrix": [
+    [
+      40,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      40,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      40,
+      0
+    ]
+  ],
+  "radius": 0.08509992090482427,
+  "initial_loss": 1.0986122883681095,
+  "final_logged_loss": 0.0077982591379807085
+}
