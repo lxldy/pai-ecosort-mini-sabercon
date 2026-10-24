@@ -1,0 +1,22 @@
+{
+  ".gitignore": "f913bfa39719e87541c241fc069f3e305ca6a9f475731bef7779f3a949e7ad3c",
+  "evidence/camera.png": "e7eed565452546e235e882c5c0896198a80be9bb76bed952ad5fc0ff7e3a31d9",
+  "evidence/final_seed_29.png": "3c2fccdccdc2fcb43a2ec83bdc3a7ee2c55784070ad85140a38048fd47bb12c7",
+  "evidence/final_seed_7.png": "c2e9af0e235c0b18bf54329684e6d3729bdf9803eed7d0a134a311087a2b6851",
+  "evidence/results.jpg": "01c1338eb6a4054761427ba442149b009d63c18e26d2d6d28010b603dddb5ff3",
+  "evidence/run_seed_29.json": "084459a5ac94cffcaabc38a32848d8c7bcef99e03b9c2c311ba6df50fe610603",
+  "evidence/run_seed_7.json": "4033b8a46f78b612be0510e1c5d8f96ea050a7c4195357fca0358033ebbb416b",
+  "evidence/scene.png": "ced3ce4a28cbcc16ce4c6b814072143f5f0caf74758fa0d31fd8cc35887ffd9b",
+  "evidence/title.jpg": "3779e4586d167837c9e90d9839721a71715d3096f980d88e5ee7d31a4207eaf6",
+  "evidence/training_metrics.json": "bef435b941ecab5ed6320aafed21af10d7facf16eadfd1a6cb68642f63b5de80",
+  "evidence/training_samples.npz": "4bf85ae3793efb1263a4cbec1cff987353824a32ce9fd499f9bfcd8a6005e9d3",
+  "evidence/video_metrics.json": "acf8a2d45326ca2f9880dbd8f154f66b25d848b6de9fd39e0ccce7ad00129bf8",
+  "LICENSE": "95db8dd57ad12927aa346701c47fcbe6a2ab32d346c5768944d7c52ab171e55b",
+  "models/color_ai.npz": "62269d157ce5bee639458c7b9e468f76e71207927ea519a8bd2b1c6026b5bb2c",
+  "perception.py": "40a8074e13e8465ac736d6eacc6f8ed8bd7b69b2ad831bc937eb031e39c5cdaa",
+  "README.md": "cc94dc65efd90acb0cc6c70f6f32efd0bd73746e2f3679f5b58c23c761e742b4",
+  "requirements.txt": "3c35824d716302656cc919a7161b13f3690c1b0c71fedea6cdc36bd490eb5fa7",
+  "run.py": "21df29b53d27752b8e809776b6c3176d51ece49a49f995ab8e63f5fbdb36db98",
+  "simulation.py": "cadd47bfeb4b90531af91b5fc4a1feefd77471b1a3255f26fc5fb06f40825cd4",
+  "video.py": "9e566cb3791dbadff6715e7bd3eb702569d55142e6accd84a8a9dc62f675c0ad"
+}
